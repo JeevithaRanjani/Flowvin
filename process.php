@@ -15,13 +15,5 @@ echo"Registration Failed";
 }   
 ?>
 
-// $to = "jeevimadheswaran06@gmail.com";
-// $subject = "New quotes from spot world";
-// $message = "A new.\n\n";
-// $message .=" $email:" . $_POST["name"] ."\n"; 
-// $message .=" $password:" . $_POST["email"] ."\n";
-
-// $headers="From: noreply@gmail.com";
-// mail($to, $subject, $message, $headers);  
-// header("Location: index.html");  
+ 
 
